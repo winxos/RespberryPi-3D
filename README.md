@@ -1,2 +1,4 @@
 # RespberryPi-3D
-RespberryPi 3D print file
+Backup for RespberryPi SHELL 3D printer file。
+
+winxos2017-02-23
